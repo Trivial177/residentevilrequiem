@@ -1,6 +1,6 @@
 # RESIDENT EVIL 9
 
-![RE9](https://upload.wikimedia.org/wikipedia/en/6/6f/Resident_Evil_Requiem_Cover_Art.jpg)
+![RE9](cover.jpg)
 
 
 Resident Evil Requiem  игра в жанре survival horror 2026 года, разработанная и изданная Capcom. Это новая крупная часть серии Resident Evil, вышедшая после Resident Evil Village (2021). 
